@@ -1,0 +1,9 @@
+c:\users\sa\documents\visual studio 2017\Projects\主機端\主機端\obj\Debug\主機端.csprojResolveAssemblyReference.cache
+c:\users\sa\documents\visual studio 2017\Projects\主機端\主機端\obj\Debug\主機端.Form1.resources
+c:\users\sa\documents\visual studio 2017\Projects\主機端\主機端\obj\Debug\主機端.Properties.Resources.resources
+c:\users\sa\documents\visual studio 2017\Projects\主機端\主機端\obj\Debug\主機端.csproj.GenerateResource.Cache
+c:\users\sa\documents\visual studio 2017\Projects\主機端\主機端\bin\Debug\主機端.exe.config
+c:\users\sa\documents\visual studio 2017\Projects\主機端\主機端\bin\Debug\主機端.exe
+c:\users\sa\documents\visual studio 2017\Projects\主機端\主機端\bin\Debug\主機端.pdb
+c:\users\sa\documents\visual studio 2017\Projects\主機端\主機端\obj\Debug\主機端.exe
+c:\users\sa\documents\visual studio 2017\Projects\主機端\主機端\obj\Debug\主機端.pdb

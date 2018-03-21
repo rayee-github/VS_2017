@@ -1,0 +1,9 @@
+c:\users\sa\documents\visual studio 2017\Projects\主機端(車)\主機端(車)\bin\Debug\主機端(車).exe.config
+c:\users\sa\documents\visual studio 2017\Projects\主機端(車)\主機端(車)\bin\Debug\主機端(車).exe
+c:\users\sa\documents\visual studio 2017\Projects\主機端(車)\主機端(車)\bin\Debug\主機端(車).pdb
+c:\users\sa\documents\visual studio 2017\Projects\主機端(車)\主機端(車)\obj\Debug\主機端(車).csprojResolveAssemblyReference.cache
+c:\users\sa\documents\visual studio 2017\Projects\主機端(車)\主機端(車)\obj\Debug\主機端_車_.Form1.resources
+c:\users\sa\documents\visual studio 2017\Projects\主機端(車)\主機端(車)\obj\Debug\主機端_車_.Properties.Resources.resources
+c:\users\sa\documents\visual studio 2017\Projects\主機端(車)\主機端(車)\obj\Debug\主機端(車).csproj.GenerateResource.Cache
+c:\users\sa\documents\visual studio 2017\Projects\主機端(車)\主機端(車)\obj\Debug\主機端(車).exe
+c:\users\sa\documents\visual studio 2017\Projects\主機端(車)\主機端(車)\obj\Debug\主機端(車).pdb

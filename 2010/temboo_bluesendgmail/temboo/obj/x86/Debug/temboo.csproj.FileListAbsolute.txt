@@ -1,0 +1,15 @@
+C:\Users\b\Documents\Visual Studio 2010\Projects\temboo\temboo\obj\x86\Debug\temboo.csprojResolveAssemblyReference.cache
+C:\Users\b\Documents\Visual Studio 2010\Projects\temboo\temboo\bin\Debug\temboo.exe.config
+C:\Users\b\Documents\Visual Studio 2010\Projects\temboo\temboo\bin\Debug\temboo.exe
+C:\Users\b\Documents\Visual Studio 2010\Projects\temboo\temboo\bin\Debug\temboo.pdb
+C:\Users\b\Documents\Visual Studio 2010\Projects\temboo\temboo\obj\x86\Debug\temboo.exe
+C:\Users\b\Documents\Visual Studio 2010\Projects\temboo\temboo\obj\x86\Debug\temboo.pdb
+C:\Users\b\Documents\Visual Studio 2010\Projects\temboo_bluesendgmail\temboo\bin\Debug\temboo.exe.config
+C:\Users\b\Documents\Visual Studio 2010\Projects\temboo_bluesendgmail\temboo\obj\x86\Debug\temboo.exe
+C:\Users\b\Documents\Visual Studio 2010\Projects\temboo_bluesendgmail\temboo\obj\x86\Debug\temboo.pdb
+C:\Users\SA\Documents\Visual Studio 2017\Projects\2010\temboo_bluesendgmail\temboo\bin\Debug\temboo.exe.config
+C:\Users\SA\Documents\Visual Studio 2017\Projects\2010\temboo_bluesendgmail\temboo\bin\Debug\temboo.exe
+C:\Users\SA\Documents\Visual Studio 2017\Projects\2010\temboo_bluesendgmail\temboo\bin\Debug\temboo.pdb
+C:\Users\SA\Documents\Visual Studio 2017\Projects\2010\temboo_bluesendgmail\temboo\obj\x86\Debug\temboo.csprojResolveAssemblyReference.cache
+C:\Users\SA\Documents\Visual Studio 2017\Projects\2010\temboo_bluesendgmail\temboo\obj\x86\Debug\temboo.exe
+C:\Users\SA\Documents\Visual Studio 2017\Projects\2010\temboo_bluesendgmail\temboo\obj\x86\Debug\temboo.pdb
