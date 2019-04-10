@@ -1,0 +1,8 @@
+﻿  Source.c
+c:\users\layout\source\repos\ldap_c\ldap_c\source.c(77): warning C4013: 'ldap_init' 未定義; 假設 extern 傳回整數
+c:\users\layout\source\repos\ldap_c\ldap_c\source.c(85): warning C4013: 'ldap_simple_bind_s' 未定義; 假設 extern 傳回整數
+c:\users\layout\source\repos\ldap_c\ldap_c\source.c(89): warning C4013: 'ldap_unbind_s' 未定義; 假設 extern 傳回整數
+c:\users\layout\source\repos\ldap_c\ldap_c\source.c(118): warning C4013: 'ldap_sort_entries' 未定義; 假設 extern 傳回整數
+c:\users\layout\source\repos\ldap_c\ldap_c\source.c(136): warning C4013: 'ldap_get_values' 未定義; 假設 extern 傳回整數
+c:\users\layout\source\repos\ldap_c\ldap_c\source.c(143): warning C4013: 'ldap_value_free' 未定義; 假設 extern 傳回整數
+  LDAP_C.vcxproj -> C:\Users\layout\source\repos\LDAP_C\x64\Debug\LDAP_C.exe

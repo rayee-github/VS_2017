@@ -1,0 +1,11 @@
+C:\Users\layout\source\repos\api_test\api_test\obj\Debug\netcoreapp2.0\api_test.csprojAssemblyReference.cache
+C:\Users\layout\source\repos\api_test\api_test\obj\Debug\netcoreapp2.0\api_test.csproj.CoreCompileInputs.cache
+C:\Users\layout\source\repos\api_test\api_test\obj\Debug\netcoreapp2.0\api_test.AssemblyInfoInputs.cache
+C:\Users\layout\source\repos\api_test\api_test\obj\Debug\netcoreapp2.0\api_test.AssemblyInfo.cs
+C:\Users\layout\source\repos\api_test\api_test\bin\Debug\netcoreapp2.0\api_test.deps.json
+C:\Users\layout\source\repos\api_test\api_test\bin\Debug\netcoreapp2.0\api_test.runtimeconfig.json
+C:\Users\layout\source\repos\api_test\api_test\bin\Debug\netcoreapp2.0\api_test.runtimeconfig.dev.json
+C:\Users\layout\source\repos\api_test\api_test\bin\Debug\netcoreapp2.0\api_test.dll
+C:\Users\layout\source\repos\api_test\api_test\bin\Debug\netcoreapp2.0\api_test.pdb
+C:\Users\layout\source\repos\api_test\api_test\obj\Debug\netcoreapp2.0\api_test.dll
+C:\Users\layout\source\repos\api_test\api_test\obj\Debug\netcoreapp2.0\api_test.pdb

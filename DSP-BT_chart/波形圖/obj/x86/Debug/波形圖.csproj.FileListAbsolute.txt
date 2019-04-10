@@ -1,0 +1,34 @@
+c:\users\sa\documents\visual studio 2010\Projects\波形圖\波形圖\obj\x86\Debug\波形圖.Properties.Resources.resources
+c:\users\sa\documents\visual studio 2010\Projects\波形圖\波形圖\obj\x86\Debug\波形圖.csproj.GenerateResource.Cache
+c:\users\sa\documents\visual studio 2010\Projects\波形圖\波形圖\bin\Debug\波形圖.exe
+c:\users\sa\documents\visual studio 2010\Projects\波形圖\波形圖\bin\Debug\波形圖.pdb
+c:\users\sa\documents\visual studio 2010\Projects\波形圖\波形圖\obj\x86\Debug\波形圖.exe
+c:\users\sa\documents\visual studio 2010\Projects\波形圖\波形圖\obj\x86\Debug\波形圖.pdb
+c:\users\sa\documents\visual studio 2010\Projects\波形圖\波形圖\obj\x86\Debug\波形圖.Form1.resources
+C:\Users\SA\Documents\Visual Studio 2010\Projects\波形圖\波形圖\obj\x86\Debug\波形圖.csprojResolveAssemblyReference.cache
+C:\Users\SA\Documents\Visual Studio 2010\Projects\波形圖2\波形圖\obj\x86\Debug\波形圖.exe
+C:\Users\SA\Documents\Visual Studio 2010\Projects\波形圖2\波形圖\obj\x86\Debug\波形圖.pdb
+C:\Users\SA\Documents\Visual Studio 2010\Projects\波形圖2\波形圖\bin\Debug\波形圖.exe
+C:\Users\SA\Documents\Visual Studio 2010\Projects\波形圖2\波形圖\bin\Debug\波形圖.pdb
+C:\Users\SA\Documents\Visual Studio 2010\Projects\波形圖2\波形圖\obj\x86\Debug\波形圖.csprojResolveAssemblyReference.cache
+C:\Users\SA\Documents\Visual Studio 2010\Projects\波形圖2\波形圖\obj\x86\Debug\波形圖.Form1.resources
+C:\Users\SA\Documents\Visual Studio 2010\Projects\波形圖2\波形圖\obj\x86\Debug\波形圖.Properties.Resources.resources
+C:\Users\SA\Documents\Visual Studio 2010\Projects\波形圖2\波形圖\obj\x86\Debug\波形圖.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\VS_2010-master\DSP-BT\波形圖\bin\Debug\波形圖.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\VS_2010-master\DSP-BT\波形圖\bin\Debug\波形圖.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\VS_2010-master\DSP-BT\波形圖\obj\x86\Debug\波形圖.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\VS_2010-master\DSP-BT\波形圖\obj\x86\Debug\波形圖.Form1.resources
+C:\Users\user\Documents\Visual Studio 2017\Projects\VS_2010-master\DSP-BT\波形圖\obj\x86\Debug\波形圖.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2017\Projects\VS_2010-master\DSP-BT\波形圖\obj\x86\Debug\波形圖.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\VS_2010-master\DSP-BT\波形圖\obj\x86\Debug\波形圖.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\VS_2010-master\DSP-BT\波形圖\obj\x86\Debug\波形圖.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\VS_2010-master\DSP-BT\波形圖\obj\x86\Debug\波形圖.pdb
+C:\Users\layout\source\repos\DSP-BT_chart\波形圖\bin\Debug\波形圖.exe
+C:\Users\layout\source\repos\DSP-BT_chart\波形圖\bin\Debug\波形圖.pdb
+C:\Users\layout\source\repos\DSP-BT_chart\波形圖\obj\x86\Debug\波形圖.csprojAssemblyReference.cache
+C:\Users\layout\source\repos\DSP-BT_chart\波形圖\obj\x86\Debug\波形圖.Form1.resources
+C:\Users\layout\source\repos\DSP-BT_chart\波形圖\obj\x86\Debug\波形圖.Properties.Resources.resources
+C:\Users\layout\source\repos\DSP-BT_chart\波形圖\obj\x86\Debug\波形圖.csproj.GenerateResource.cache
+C:\Users\layout\source\repos\DSP-BT_chart\波形圖\obj\x86\Debug\波形圖.csproj.CoreCompileInputs.cache
+C:\Users\layout\source\repos\DSP-BT_chart\波形圖\obj\x86\Debug\波形圖.exe
+C:\Users\layout\source\repos\DSP-BT_chart\波形圖\obj\x86\Debug\波形圖.pdb

@@ -1,0 +1,9 @@
+C:\Users\layout\source\repos\DSP-BT_chart\波形圖\bin\Release\波形圖.exe
+C:\Users\layout\source\repos\DSP-BT_chart\波形圖\bin\Release\波形圖.pdb
+C:\Users\layout\source\repos\DSP-BT_chart\波形圖\obj\x86\Release\波形圖.csprojAssemblyReference.cache
+C:\Users\layout\source\repos\DSP-BT_chart\波形圖\obj\x86\Release\波形圖.Form1.resources
+C:\Users\layout\source\repos\DSP-BT_chart\波形圖\obj\x86\Release\波形圖.Properties.Resources.resources
+C:\Users\layout\source\repos\DSP-BT_chart\波形圖\obj\x86\Release\波形圖.csproj.GenerateResource.cache
+C:\Users\layout\source\repos\DSP-BT_chart\波形圖\obj\x86\Release\波形圖.csproj.CoreCompileInputs.cache
+C:\Users\layout\source\repos\DSP-BT_chart\波形圖\obj\x86\Release\波形圖.exe
+C:\Users\layout\source\repos\DSP-BT_chart\波形圖\obj\x86\Release\波形圖.pdb

@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\layout\source\repos\123\123\source.cpp(29): warning C4018: '<': signed/unsigned 不相符
+c:\users\layout\source\repos\123\123\source.cpp(30): warning C4018: '<': signed/unsigned 不相符
+  123.vcxproj -> C:\Users\layout\source\repos\123\Debug\123.exe

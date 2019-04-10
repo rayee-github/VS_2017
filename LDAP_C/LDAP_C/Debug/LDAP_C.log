@@ -1,0 +1,24 @@
+﻿Source.obj : error LNK2019: 無法解析的外部符號 _ber_free 在函式 _main 中被參考
+Source.obj : error LNK2019: 無法解析的外部符號 _ldap_set_option 在函式 _main 中被參考
+Source.obj : error LNK2019: 無法解析的外部符號 _ldap_err2string 在函式 _main 中被參考
+Source.obj : error LNK2019: 無法解析的外部符號 _ldap_first_entry 在函式 _main 中被參考
+Source.obj : error LNK2019: 無法解析的外部符號 _ldap_first_attribute 在函式 _main 中被參考
+Source.obj : error LNK2019: 無法解析的外部符號 _ldap_next_attribute 在函式 _main 中被參考
+Source.obj : error LNK2019: 無法解析的外部符號 _ldap_msgfree 在函式 _main 中被參考
+Source.obj : error LNK2019: 無法解析的外部符號 _ldap_search_ext_s 在函式 _main 中被參考
+Source.obj : error LNK2019: 無法解析的外部符號 _ldap_memfree 在函式 _main 中被參考
+Source.obj : error LNK2019: 無法解析的外部符號 _ldap_init 在函式 _main 中被參考
+Source.obj : error LNK2019: 無法解析的外部符號 _ldap_simple_bind_s 在函式 _main 中被參考
+Source.obj : error LNK2019: 無法解析的外部符號 _ldap_get_values 在函式 _main 中被參考
+Source.obj : error LNK2019: 無法解析的外部符號 _ldap_value_free 在函式 _main 中被參考
+Source.obj : error LNK2019: 無法解析的外部符號 _ldap_unbind 在函式 _main 中被參考
+Source.obj : error LNK2001: 無法解析的外部符號 _ber_pvt_opt_on
+C:\openldapsdk\lib\libeay32.lib : warning LNK4272: 程式庫電腦類型 'x64' 與目標電腦類型 'x86' 發生衝突
+C:\openldapsdk\lib\liblber.lib : warning LNK4272: 程式庫電腦類型 'x64' 與目標電腦類型 'x86' 發生衝突
+C:\openldapsdk\lib\libldap.lib : warning LNK4272: 程式庫電腦類型 'x64' 與目標電腦類型 'x86' 發生衝突
+C:\openldapsdk\lib\libldap_r.lib : warning LNK4272: 程式庫電腦類型 'x64' 與目標電腦類型 'x86' 發生衝突
+C:\openldapsdk\lib\liblunicode.lib : warning LNK4272: 程式庫電腦類型 'x64' 與目標電腦類型 'x86' 發生衝突
+C:\openldapsdk\lib\liblutil.lib : warning LNK4272: 程式庫電腦類型 'x64' 與目標電腦類型 'x86' 發生衝突
+C:\openldapsdk\lib\nldapextd.lib : warning LNK4272: 程式庫電腦類型 'x64' 與目標電腦類型 'x86' 發生衝突
+C:\openldapsdk\lib\ssleay32.lib : warning LNK4272: 程式庫電腦類型 'x64' 與目標電腦類型 'x86' 發生衝突
+C:\Users\layout\source\repos\LDAP_C\Debug\LDAP_C.exe : fatal error LNK1120: 15 個無法解析的外部符號

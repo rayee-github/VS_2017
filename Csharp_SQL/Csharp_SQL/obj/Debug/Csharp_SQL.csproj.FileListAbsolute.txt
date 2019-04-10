@@ -1,0 +1,14 @@
+C:\Users\layout\source\repos\Csharp_SQL\Csharp_SQL\obj\Debug\Csharp_SQL.csprojAssemblyReference.cache
+C:\Users\layout\source\repos\Csharp_SQL\Csharp_SQL\obj\Debug\Csharp_SQL.Form1.resources
+C:\Users\layout\source\repos\Csharp_SQL\Csharp_SQL\obj\Debug\Csharp_SQL.Properties.Resources.resources
+C:\Users\layout\source\repos\Csharp_SQL\Csharp_SQL\obj\Debug\Csharp_SQL.csproj.GenerateResource.cache
+C:\Users\layout\source\repos\Csharp_SQL\Csharp_SQL\obj\Debug\Csharp_SQL.csproj.CoreCompileInputs.cache
+C:\Users\layout\source\repos\Csharp_SQL\Csharp_SQL\bin\Debug\Csharp_SQL.exe.config
+C:\Users\layout\source\repos\Csharp_SQL\Csharp_SQL\bin\Debug\Csharp_SQL.exe
+C:\Users\layout\source\repos\Csharp_SQL\Csharp_SQL\bin\Debug\Csharp_SQL.pdb
+C:\Users\layout\source\repos\Csharp_SQL\Csharp_SQL\bin\Debug\MySql.Data.dll
+C:\Users\layout\source\repos\Csharp_SQL\Csharp_SQL\bin\Debug\Google.Protobuf.dll
+C:\Users\layout\source\repos\Csharp_SQL\Csharp_SQL\bin\Debug\MySql.Data.xml
+C:\Users\layout\source\repos\Csharp_SQL\Csharp_SQL\obj\Debug\Csharp_SQL.csproj.CopyComplete
+C:\Users\layout\source\repos\Csharp_SQL\Csharp_SQL\obj\Debug\Csharp_SQL.exe
+C:\Users\layout\source\repos\Csharp_SQL\Csharp_SQL\obj\Debug\Csharp_SQL.pdb

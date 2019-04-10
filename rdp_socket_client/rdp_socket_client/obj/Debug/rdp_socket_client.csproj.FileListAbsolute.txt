@@ -1,0 +1,10 @@
+c:\users\layout\source\repos\rdp_socket_client\rdp_socket_client\bin\Debug\rdp_socket_client.exe.config
+c:\users\layout\source\repos\rdp_socket_client\rdp_socket_client\bin\Debug\rdp_socket_client.exe
+c:\users\layout\source\repos\rdp_socket_client\rdp_socket_client\bin\Debug\rdp_socket_client.pdb
+c:\users\layout\source\repos\rdp_socket_client\rdp_socket_client\obj\Debug\rdp_socket_client.csprojAssemblyReference.cache
+c:\users\layout\source\repos\rdp_socket_client\rdp_socket_client\obj\Debug\rdp_socket_client.Form1.resources
+c:\users\layout\source\repos\rdp_socket_client\rdp_socket_client\obj\Debug\rdp_socket_client.Properties.Resources.resources
+c:\users\layout\source\repos\rdp_socket_client\rdp_socket_client\obj\Debug\rdp_socket_client.csproj.GenerateResource.cache
+c:\users\layout\source\repos\rdp_socket_client\rdp_socket_client\obj\Debug\rdp_socket_client.csproj.CoreCompileInputs.cache
+c:\users\layout\source\repos\rdp_socket_client\rdp_socket_client\obj\Debug\rdp_socket_client.exe
+c:\users\layout\source\repos\rdp_socket_client\rdp_socket_client\obj\Debug\rdp_socket_client.pdb
