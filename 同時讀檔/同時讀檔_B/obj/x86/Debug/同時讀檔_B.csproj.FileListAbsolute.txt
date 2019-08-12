@@ -1,0 +1,16 @@
+c:\users\sa\documents\visual studio 2010\Projects\同時讀檔_B\同時讀檔_B\bin\Debug\同時讀檔_B.exe
+c:\users\sa\documents\visual studio 2010\Projects\同時讀檔_B\同時讀檔_B\bin\Debug\同時讀檔_B.pdb
+c:\users\sa\documents\visual studio 2010\Projects\同時讀檔_B\同時讀檔_B\obj\x86\Debug\同時讀檔_B.Form1.resources
+c:\users\sa\documents\visual studio 2010\Projects\同時讀檔_B\同時讀檔_B\obj\x86\Debug\同時讀檔_B.Properties.Resources.resources
+c:\users\sa\documents\visual studio 2010\Projects\同時讀檔_B\同時讀檔_B\obj\x86\Debug\同時讀檔_B.csproj.GenerateResource.Cache
+c:\users\sa\documents\visual studio 2010\Projects\同時讀檔_B\同時讀檔_B\obj\x86\Debug\同時讀檔_B.exe
+c:\users\sa\documents\visual studio 2010\Projects\同時讀檔_B\同時讀檔_B\obj\x86\Debug\同時讀檔_B.pdb
+C:\Users\layout\Documents\Visual Studio 2010\Projects\VS_2010-master\同時讀檔_B\同時讀檔_B\bin\Debug\同時讀檔_B.exe
+C:\Users\layout\Documents\Visual Studio 2010\Projects\VS_2010-master\同時讀檔_B\同時讀檔_B\bin\Debug\同時讀檔_B.pdb
+C:\Users\layout\Documents\Visual Studio 2010\Projects\VS_2010-master\同時讀檔_B\同時讀檔_B\obj\x86\Debug\同時讀檔_B.csprojAssemblyReference.cache
+C:\Users\layout\Documents\Visual Studio 2010\Projects\VS_2010-master\同時讀檔_B\同時讀檔_B\obj\x86\Debug\同時讀檔_B.Form1.resources
+C:\Users\layout\Documents\Visual Studio 2010\Projects\VS_2010-master\同時讀檔_B\同時讀檔_B\obj\x86\Debug\同時讀檔_B.Properties.Resources.resources
+C:\Users\layout\Documents\Visual Studio 2010\Projects\VS_2010-master\同時讀檔_B\同時讀檔_B\obj\x86\Debug\同時讀檔_B.csproj.GenerateResource.cache
+C:\Users\layout\Documents\Visual Studio 2010\Projects\VS_2010-master\同時讀檔_B\同時讀檔_B\obj\x86\Debug\同時讀檔_B.csproj.CoreCompileInputs.cache
+C:\Users\layout\Documents\Visual Studio 2010\Projects\VS_2010-master\同時讀檔_B\同時讀檔_B\obj\x86\Debug\同時讀檔_B.exe
+C:\Users\layout\Documents\Visual Studio 2010\Projects\VS_2010-master\同時讀檔_B\同時讀檔_B\obj\x86\Debug\同時讀檔_B.pdb
