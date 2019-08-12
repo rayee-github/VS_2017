@@ -1,0 +1,4 @@
+﻿  Dll1.cpp
+  Dll1.obj : 受控碼存在時不支援 /DEBUG:FASTLINK; 正在以 /DEBUG:FULL 重新啟動連結
+     正在建立程式庫 c:\Users\layout\source\repos\Dll1\Debug\Dll1.lib 和物件 c:\Users\layout\source\repos\Dll1\Debug\Dll1.exp
+  Dll1.vcxproj -> c:\Users\layout\source\repos\Dll1\Debug\Dll1.dll

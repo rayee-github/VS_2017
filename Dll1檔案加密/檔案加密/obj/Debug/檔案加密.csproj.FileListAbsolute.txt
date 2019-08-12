@@ -1,0 +1,13 @@
+c:\Users\layout\source\repos\Dll1\檔案加密\bin\Debug\檔案加密.exe.config
+c:\Users\layout\source\repos\Dll1\檔案加密\bin\Debug\檔案加密.exe
+c:\Users\layout\source\repos\Dll1\檔案加密\bin\Debug\檔案加密.pdb
+c:\Users\layout\source\repos\Dll1\檔案加密\bin\Debug\Dll1.pdb
+c:\Users\layout\source\repos\Dll1\檔案加密\obj\Debug\檔案加密.csprojAssemblyReference.cache
+c:\Users\layout\source\repos\Dll1\檔案加密\obj\Debug\檔案加密.Form1.resources
+c:\Users\layout\source\repos\Dll1\檔案加密\obj\Debug\檔案加密.Properties.Resources.resources
+c:\Users\layout\source\repos\Dll1\檔案加密\obj\Debug\檔案加密.csproj.GenerateResource.cache
+c:\Users\layout\source\repos\Dll1\檔案加密\obj\Debug\檔案加密.csproj.CoreCompileInputs.cache
+c:\Users\layout\source\repos\Dll1\檔案加密\obj\Debug\檔案加密.csproj.CopyComplete
+c:\Users\layout\source\repos\Dll1\檔案加密\obj\Debug\檔案加密.exe
+c:\Users\layout\source\repos\Dll1\檔案加密\obj\Debug\檔案加密.pdb
+c:\Users\layout\source\repos\Dll1\檔案加密\bin\Debug\Dll1.dll
